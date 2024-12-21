@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My_User</string>
+    <string-array name="shift_array">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+    </string-array>
+    <string-array name="payment_array">
+        <item>Cash</item>
+        <item>Card</item>
+        <item>Online</item>
+    </string-array>
+
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+
+</resources>
